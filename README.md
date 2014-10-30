@@ -21,7 +21,7 @@ requirefy.load(cssPath,function(){
 ## Maintained by
 - Cristian Hernandez (UI Dev)
 - E-mail: [cristianhernandez@gmail.com](mailto:cristianhernandez@gmail.com)
-- Twitter: [@pazguille](http://twitter.com/cristian2028)
+- Twitter: [@cristian2028](http://twitter.com/cristian2028)
 
 ## License
 Licensed under the MIT license.
