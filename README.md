@@ -19,7 +19,7 @@ requirefy.load(cssPath,function(){
 });
 
 ## Maintained by
-- Cristian Hernandez (UI Architect)
+- Cristian Hernandez (UI Dev)
 - E-mail: [cristianhernandez@gmail.com](mailto:cristianhernandez@gmail.com)
 - Twitter: [@pazguille](http://twitter.com/cristian2028)
 
