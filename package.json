@@ -1,0 +1,23 @@
+{
+    "name": "requirefy-css",
+    "repository": "git@github.com:cristian2028/requirefy-css.git",
+    "description": "Loads a css file from a module",
+    "author": "Cristian Hernandez <cristianhernandez@gmail.com>",
+    "version": "0.0.2",
+    "scripts": {
+        "start": "gulp",
+        "test": "gulp test"
+    },
+    "devDependencies": {
+    },
+    "main": "index.js",
+    "keywords": [
+        "require",
+        "amd",
+        "css",
+        "broserify"
+        "require-css",
+        "commonjs"
+    ],
+    "license": "MIT"
+}
