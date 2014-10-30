@@ -12,7 +12,7 @@ Based on [require-css](https://github.com/guybedford/require-css) code.
 
 var requirefy = require('requirefy-css');
 
-var cssPath = '/path/to/style'; (without .css)
+var cssPath = '/path/to/style';// (without .css)
 
 requirefy.load(cssPath,function(){
     console.log('css loaded');
