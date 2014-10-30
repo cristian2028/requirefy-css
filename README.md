@@ -9,7 +9,7 @@ Based on [require-css](https://github.com/guybedford/require-css) code.
     $ npm install requirefy-css
 
 ## How-to
-```js
+
 var requirefy = require('requirefy-css');
 
 var cssPath = '/path/to/style'; (without .css)
