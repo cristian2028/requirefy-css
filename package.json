@@ -8,7 +8,8 @@
   "version": "0.0.1",
   "devDependencies": {
     "brfs": "^1.2.0",
-    "browserify": "^6.2.0"
+    "browserify": "^6.2.0",
+    "express": "^4.10.1"
   },
   "main": "index.js",
   "keywords": [

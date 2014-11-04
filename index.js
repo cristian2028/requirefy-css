@@ -6,5 +6,6 @@ var test = vm.createScript(code);
 test.runInNewContext({
     define:function(func){
         module.exports = func();
-    }
+    },
+    setInterval:window.setInterval
 });

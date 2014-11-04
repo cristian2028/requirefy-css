@@ -4,4 +4,6 @@ var req = {
         return url;
     }
 }
-cssLoader.load('style',req);
+cssLoader.load('/example/style.css',req,function(){
+    console.log("css loadded")
+});
