@@ -1,13 +1,11 @@
 {
     "name": "requirefy-css",
     "repository": "git@github.com:cristian2028/requirefy-css.git",
+    "homepage": "https://github.com/cristian2028/requirefy-css",
     "description": "Loads a css file from a module",
-    "author": "Cristian Hernandez <cristianhernandez@gmail.com>",
-    "version": "0.0.2",
-    "scripts": {
-        "start": "gulp",
-        "test": "gulp test"
-    },
+    "private": false,
+    "author": "cristianhernandez@gmail.com",
+    "version": "0.0.1",
     "devDependencies": {
     },
     "main": "index.js",
@@ -15,7 +13,7 @@
         "require",
         "amd",
         "css",
-        "broserify"
+        "broserify",
         "require-css",
         "commonjs"
     ],
