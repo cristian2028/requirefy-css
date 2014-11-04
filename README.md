@@ -18,6 +18,11 @@ requirefy.load(cssPath,function(){
     console.log('css loaded');
 });
 
+## Run Example
+
+browserify -t brfs script.js > bundle.js
+
+
 ## Maintained by
 - Cristian Hernandez (UI Dev)
 - E-mail: [cristianhernandez@gmail.com](mailto:cristianhernandez@gmail.com)

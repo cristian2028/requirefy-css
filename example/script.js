@@ -1,2 +1,7 @@
 var cssLoader = require('../');
-console.log(cssLoader);
+var req = {
+    toUrl:function(url){
+        return url;
+    }
+}
+cssLoader.load('style',req);
