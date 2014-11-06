@@ -12,6 +12,10 @@
     "express": "^4.10.1"
   },
   "main": "index.js",
+  "readmeFilename": "readme.md",
+  "bugs": {
+     "url": "https://github.com/cristian2028/requirefy-css/issues"
+  },
   "keywords": [
     "require",
     "amd",
