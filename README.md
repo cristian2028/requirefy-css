@@ -14,13 +14,16 @@ var requirefy = require('requirefy-css');
 
 var cssPath = '/path/to/style';// (without .css)
 
-requirefy.load(cssPath,function(){
+requirefy(cssPath,function(){
     console.log('css loaded');
 });
 
 ## Run Example
-
+in example folder:
 browserify -t brfs script.js > bundle.js
+
+start the server:
+node server.js
 
 
 ## Maintained by
