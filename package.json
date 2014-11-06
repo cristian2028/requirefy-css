@@ -6,7 +6,7 @@
   "private": false,
   "author": "cristianhernandez@gmail.com",
   "version": "0.0.3",
-  "devDependencies": {
+  "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "^6.2.0",
     "express": "^4.10.1",
