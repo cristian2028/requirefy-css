@@ -5,7 +5,7 @@
   "description": "Loads a css file from a browserified module ",
   "private": false,
   "author": "cristianhernandez@gmail.com",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "^6.2.0",
